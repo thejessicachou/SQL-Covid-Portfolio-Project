@@ -1,4 +1,4 @@
-```ruby
+
 --Looking at total cases vs total deaths
 --Shows likelihood of dying if you contract COVID in the United States
 
@@ -91,4 +91,4 @@ WHERE dea.continent IS NOT NULL)
 
 DROP TABLE IF EXISTS PercentPopulationVaccinated
 
-```
+
